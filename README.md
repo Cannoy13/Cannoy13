@@ -1,6 +1,6 @@
 <h1>
   Hi there, I'm Tyler! <br />
-  <a href="https://github.com/cannoy13">Network Associate</a>, 
+  <a href="href="https://www.linkedin.com/in/Tyler-Cannoy-6a3068165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/">Network Associate </a>, 
   <a href="https://www.linkedin.com/in/Tyler-Cannoy-6a3068165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/">
     Cybersecurity Professional
   </a>
