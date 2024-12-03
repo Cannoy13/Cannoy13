@@ -31,7 +31,7 @@
 <ul>
   <li>
     <a href="https://github.com/Cannoy13/HomeNetworkSetupUnifi" style="font-size:20px; text-decoration:none; color:blue;">
-       Unifi NetworkSetup
+       Unifi Network Setup
     </a>
   </li>
 
