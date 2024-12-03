@@ -6,12 +6,20 @@
   </a>
 </h1>
 
-<b style="font-size:100px;">👨‍💻CyberSecurity Projects</b>
-  - [Password Strength Checker](https://github.com/Cannoy13/PasswordStrengthChecker)
+<h2>
+  <p style="font-size:100px;">
+    👨‍💻 CyberSecurity Projects
+  </p>
+</h2>
+<ul>
+  <li>
+    <a href="https://github.com/Cannoy13/PasswordStrengthChecker" style="font-size:20px; text-decoration:none; color:blue;">
+       Password Strength Checker
+    </a>
+  </li>
+</ul>
 
 
-
-  
 <h2>
   <p style="font-size:100px">
     &#128187; Certifications
