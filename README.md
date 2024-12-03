@@ -17,6 +17,11 @@
        Password Strength Checker
     </a>
   </li>
+  <li>
+    <a href="https://github.com/Cannoy13/Vulnerability_Scanner" style="font-size:20px; text-decoration:none; color:blue;">
+       Vulnerability Scanner
+    </a>
+  </li>
 </ul>
 
 
