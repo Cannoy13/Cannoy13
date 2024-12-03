@@ -6,6 +6,40 @@
   - 
   - 
 
+<h2>
+  <p style="font-size:100px">
+    &#128187; Certifications
+  </p>
+</h2>
+<ul>
+  <li>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/FX2S2FG8G27C" 
+       style="font-size:20px; text-decoration:none; color:blue;">
+       Google IT Support Specialist Certification
+    </a>
+  </li>
+  <li>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/85HAYZ25387N" 
+       style="font-size:20px; text-decoration:none; color:blue;">
+       Google Cybersecurity Professional
+    </a>
+  </li>
+  <li style="font-size:20px;">
+    UMGC Undergraduate Certification consisting of:
+    <ul>
+      <li>CCNA</li>
+      <li>Linux+</li>
+      <li>CompTIA A+</li>
+      <li>Network+</li>
+      <li>Security+</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Education</h2>
+  UMGC Bachelor's Computer Networking and Cybersecurity
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
