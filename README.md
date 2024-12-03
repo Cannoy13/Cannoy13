@@ -6,8 +6,9 @@
   </a>
 </h1>
 
-<b>👨‍💻CyberSecurity Projects</b>
+<b style="font-size:100px;">👨‍💻CyberSecurity Projects</b>
   - [Password Strength Checker](https://github.com/Cannoy13/PasswordStrengthChecker)
+
 
 
   
