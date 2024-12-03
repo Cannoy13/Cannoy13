@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler <br/><a href="https://github.com/cannoy13">Programmer</a>, <a href="https://www.linkedin.com/in/TylerCannoy/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Tyler <br/><a href="https://github.com/cannoy13">Programmer</a>, <a href="https://www.linkedin.com/in/Tyler-Cannoy-6a3068165?utm_source=share&utm_cam-paign=share_via&utm_content=profile&utm_medium=ios_app/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
