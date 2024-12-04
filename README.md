@@ -7,7 +7,7 @@
 
 <h2>
   <p style="font-size:100px;">
-    👨‍💻 CyberSecurity Projects
+    👨‍💻 CyberSecurity/ 🖥️Networking Projects
   </p>
 </h2>
 <ul>
@@ -21,17 +21,14 @@
        Vulnerability Scanner
     </a>
   </li>
-</ul>
-
-<h2>
-  <p style="font-size:100px;">
-    🖨️ Networking Projects
-  </p>
-</h2>
-<ul>
   <li>
     <a href="https://github.com/Cannoy13/HomeNetworkSetupUnifi" style="font-size:20px; text-decoration:none; color:blue;">
        Unifi Network Setup
+    </a>
+  </li>
+   <li>
+    <a href="https://github.com/Cannoy13/VulnerabilityNMAP" style="font-size:20px; text-decoration:none; color:blue;">
+       Vulnerability Scanning using nmap/zenmap
     </a>
   </li>
 
